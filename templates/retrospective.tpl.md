@@ -28,5 +28,5 @@
 # Responsabilities
 - demo:
 - dailys:
-- internal review:
+- delivery tests: PO
 - checking the sentry / graphana
