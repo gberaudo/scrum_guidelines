@@ -4,9 +4,6 @@
 - responsible for the quality of the code;
 - commit a sprint backlog during the planning and implement it during the sprint;
 - participate to dailies
-  - what I did yesterday;
-  - what I will do today;
-  - do I see blocking issues.
 - estimate complexity and remaining time of the cards;
 - participate to the scrum poker;
 - present demos;
