@@ -4,7 +4,7 @@
 # Goal
 
 This guide lists the essential concepts and processes related to the SCRUM methodology.
-In assumes you have read the [official SCRUM guide](http://www.scrumguides.org/scrum-guide.html).
+It assumes you have read the [official SCRUM guide](http://www.scrumguides.org/scrum-guide.html).
 
 
 ## The roles
