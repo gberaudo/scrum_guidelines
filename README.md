@@ -21,7 +21,6 @@ It assumes you have read the [official SCRUM guide](http://www.scrumguides.org/s
 
 - [Preparing the project](./events/preparation.md);
 - [Kickoff](./events/kickoff.md);
-
 - [Daily](./events/daily.md);
 - [Demo](./events/demo.md);
 - [Retrospective](./events/retrospective.md).
