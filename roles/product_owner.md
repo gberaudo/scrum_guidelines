@@ -8,7 +8,7 @@
 
 
 ## Before kickoff
-- see [preparation](../events.preparation.md).
+- see [preparation](../events/preparation.md).
 
 
 ## Kickoff
